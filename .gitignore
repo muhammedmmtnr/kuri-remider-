@@ -4,3 +4,5 @@ emails.csv
 !.env.example
 __pycache__/
 *.pyc
+.venv/
+send_report.csv
